@@ -40,6 +40,18 @@ h1{
 	color: white;
 }
 
+/*HEADER*/
 .box{
 	margin-top: 3rem;
+}
+
+.popular{
+	background-color: red;
+	width: 15rem;
+	height: 4rem;
+	position: absolute;
+	color: white;
+	text-align: center;
+	padding-top: 1rem;
+	font-weight: 700;
 }
