@@ -1,1 +1,33 @@
-/* Holiii otra vez */
+*{
+	padding: 0;
+	margin:0;
+}
+
+body{
+	font-family: 'Merriweather Sans', sans-serif;
+	background-color: white;
+}
+
+h1{
+	color: black;
+	font-size: 30px;
+}
+
+.navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+	padding: 5px 70px;
+}
+
+/*BOTON DE BUSQUEDA*/
+
+#search-form { display: none; }
+
+#search-button{
+	background-color: red;
+	float: right;
+}
+
+.glyphicon-search{
+	color: white;
+}
