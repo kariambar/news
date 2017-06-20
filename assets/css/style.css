@@ -8,6 +8,10 @@ body{
 	background-color: white;
 }
 
+.img-responsive{
+	width: 100%;
+}
+
 h1{
 	color: black;
 	font-size: 30px;
@@ -19,6 +23,10 @@ h1{
 	padding: 5px 70px;
 }
 
+.navbar-toggle{
+	float: left;
+}
+
 /*BOTON DE BUSQUEDA*/
 
 #search-form { display: none; }
@@ -26,8 +34,12 @@ h1{
 #search-button{
 	background-color: red;
 	float: right;
+	margin-top: -4rem;
 }
-
 .glyphicon-search{
 	color: white;
+}
+
+.box{
+	margin-top: 3rem;
 }
