@@ -32,7 +32,7 @@ h1{
 #search-form { display: none; }
 
 #search-button{
-	background-color: red;
+	background-color: #ea4748;
 	float: right;
 	margin-top: -4rem;
 }
@@ -46,7 +46,7 @@ h1{
 }
 
 .popular{
-	background-color: red;
+	background-color: #ea4748;
 	width: 15rem;
 	height: 4rem;
 	position: absolute;
@@ -54,4 +54,9 @@ h1{
 	text-align: center;
 	padding-top: 1rem;
 	font-weight: 700;
+}
+
+/*SECTION DOS*/
+.second-section{
+	margin-top: 7rem;
 }
