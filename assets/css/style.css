@@ -60,3 +60,26 @@ h1{
 .second-section{
 	margin-top: 7rem;
 }
+
+h6{
+	color:  #ea4748;
+}
+
+hr{
+	width: 100%;
+	color: gray;
+	padding: 0.1em;
+}
+.fa-star{
+	color:  #ea4748;
+}
+.fa-star-o{
+	color:gray;
+}
+
+.linea{
+	width: 100%;
+	color: gray;
+	padding: 0.1em;
+	line-height: 90%;
+}
